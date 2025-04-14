@@ -5,4 +5,10 @@ The goal is to improve my problem-solving and JavaScript skills by solving one c
 
 ## Folder Structure
 
-📁 Day01 └── index.js 📁 Day02 └── index.js ... 📁 Day30 └── index.js
+📁 Day01
+└── solution.js
+📁 Day02
+└── solution.js
+...
+📁 Day30
+└── solution.js
