@@ -5,12 +5,13 @@ The goal is to improve my problem-solving and JavaScript skills by solving one c
 
 ## 📁 Folder Structure
 
-```plaintext
-Day01/
+```
+📁/
 └── solution.js
-Day02/
+📁/
 └── solution.js
 ...
-Day30/
+
+📁/
 └── solution.js
 ```
